@@ -1,0 +1,10 @@
+{
+    "status": "success",
+    "input_file": "Book1.csv",
+    "predictions": [
+        [
+            367.55609130859375
+        ]
+    ],
+    "timestamp": "2025-03-16T22:35:55.588838"
+}
